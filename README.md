@@ -23,7 +23,8 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 
 | Project | Tech Stack | Key Engineering Decision |
 | :--- | :--- | :--- |
-| **[Bayesian Heart Failure Predictor](https://github.com/KaiserAI/Bayesian-Heart-Failure-Clinical-Risk-Prediction-with-Uncertainty-Quantification)** | Python, MCMC (Custom) | **Decision Thresholding:** Tuned for **zero false positives** to reflect clinical resource constraints. Implemented Metropolis-Hastings from scratch to model uncertainty explicitly. || **[Cardiolog: Neuro-Symbolic Diagnostic Tool](./link-to-repo)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
+| **[Bayesian Heart Failure Predictor](https://github.com/KaiserAI/Bayesian-Heart-Failure-Clinical-Risk-Prediction-with-Uncertainty-Quantification)** | Python, MCMC (Custom) | **Decision Thresholding:** Tuned for **zero false positives** to reflect clinical resource constraints. Implemented Metropolis-Hastings from scratch to model uncertainty explicitly. |
+| **[Cardiolog: Neuro-Symbolic Diagnostic Tool](./link-to-repo)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
 
 ---
 
