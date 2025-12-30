@@ -71,10 +71,7 @@ I am a member of an Artificial Intelligence association and have participated in
 
 ## 🤝 Collaboration
 
-I’m especially interested in collaborating on projects that:
-- involve non-trivial engineering or algorithmic trade-offs,
-- operate under real-world constraints (time, data quality, interpretability, risk),
-- or aim to apply AI in socially relevant or high-impact domains.
+I’m especially interested in collaborating on projects that aim to apply AI in socially relevant or high-impact domains.
 
 ---
 
