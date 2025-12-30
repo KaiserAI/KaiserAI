@@ -59,8 +59,7 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 
 ## 🌍 Beyond Code
 
-I actively engage in **AI dissemination and community-driven initiatives**, particularly around:
-- critical thinking about AI and the social impact of deployed AI systems.
+I actively engage in **AI dissemination and community-driven initiatives**, particularly around critical thinking about AI and the social impact of deployed AI systems.
 
 I am the president of an [Artificial Intelligence association](https://asociacion-ia.github.io/aiaweb/) and have participated in talks and interactive events on aimed at helping both technical and non-technical audiences understand how modern AI works.
 
