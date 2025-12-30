@@ -47,6 +47,14 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
   * **Analysis:** Compared SVMs, LSTMs, and Transformers, evaluating accuracy gains against computational cost.
   * **Stack:** Python, Hugging Face, Scikit-learn.
 
+### 🛡️ GenAI Security & Engineering
+*Red Teaming, Prompt Injection defense strategies, and Local LLM deployment.*
+
+| Project | Tech Stack | Key Engineering Trade-off |
+| :--- | :--- | :--- |
+| **[MegaCorp: LLM Red Teaming Platform](https://github.com/KaiserAI/Hacking-LLM-Local.git)** | Python, Llama 3.2 (Local), LangChain | **Latency vs. Privacy:** Architected a fully local inference pipeline using Ollama/Llama 3.2 to eliminate data leakage risks associated with cloud APIs, while optimizing prompt context limits for real-time interactivity. |
+
+
 ---
 
 ## 🌍 Beyond Code
