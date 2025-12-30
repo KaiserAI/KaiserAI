@@ -4,7 +4,7 @@
 I design and build AI systems with a strong focus on **engineering judgment, computational efficiency, and real-world constraints**.  
 Rather than chasing model complexity or trends, I prioritize **well-founded design decisions**, clear trade-offs, and solutions that remain robust outside controlled environments.
 
-My interests span Data Science, Optimization, and Neuro-Symbolic AI, with a particular emphasis on systems that must operate reliably in high-impact or noisy contexts.
+My interests span Data Science, Optimization, All fields of AI and, also Neuro-Symbolic AI, with a particular emphasis on systems that must operate reliably in high-impact or noisy contexts.
 
 ---
 
