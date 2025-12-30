@@ -48,7 +48,7 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
   * **Stack:** Python, Hugging Face, Scikit-learn.
 
 ### 🛡️ GenAI Security & Engineering
-*Red Teaming, Prompt Injection defense strategies, and Local LLM deployment.*
+*Prompt Injection attacks-defense strategies, and Local LLM deployment.*
 
 | Project | Tech Stack | Key Engineering Trade-off |
 | :--- | :--- | :--- |
