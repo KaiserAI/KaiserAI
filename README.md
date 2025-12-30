@@ -60,11 +60,9 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 ## 🌍 Beyond Code
 
 I actively engage in **AI dissemination and community-driven initiatives**, particularly around:
-- critical thinking about AI-generated content,
-- misinformation and automated persuasion,
-- and the social impact of deployed AI systems.
+- critical thinking about AI and the social impact of deployed AI systems.
 
-I am a member of an Artificial Intelligence association and have participated in the organization of talks and interactive events on **fake news and AI**, aimed at helping non-technical audiences understand how modern AI systems influence information and decision-making.
+I am the president of an [Artificial Intelligence association](https://asociacion-ia.github.io/aiaweb/) and have participated in talks and interactive events on aimed at helping both technical and non-technical audiences understand how modern AI works.
 
 ---
 
@@ -72,8 +70,7 @@ I am a member of an Artificial Intelligence association and have participated in
 
 * **Languages:** Python (Advanced), Java, Prolog, SQL  
 * **Machine Learning:** Scikit-learn, PyTorch, Hugging Face Transformers  
-* **Optimization:** Metaheuristics, Simulated Annealing, GRASP  
-* **Reasoning Systems:** Logic Programming, Neuro-Symbolic AI  
+* **Optimization:** Metaheuristics 
 
 ---
 
