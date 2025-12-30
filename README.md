@@ -1,55 +1,84 @@
 # Hi there, I'm Walter 👋
-### AI Engineer & Data Scientist 
-I build robust, production-grade systems that solve complex engineering problems. My work prioritizes **business value, algorithmic efficiency, and model interpretability** over black-box complexity.
+### AI Engineer & Data Scientist
 
-Currently applying rigorous engineering principles to Data Science and Neuro-Symbolic AI.
+I design and build AI systems with a strong focus on **engineering judgment, computational efficiency, and real-world constraints**.  
+Rather than chasing model complexity or trends, I prioritize **well-founded design decisions**, clear trade-offs, and solutions that remain robust outside controlled environments.
+
+My interests span Data Science, Optimization, and Neuro-Symbolic AI, with a particular emphasis on systems that must operate reliably in high-impact or noisy contexts.
 
 ---
 
 ## 🛠️ Engineering Philosophy
 
-* **Explainability First:** In critical domains like Healthcare, a correct prediction is useless if the "why" is a mystery.
-* **Efficiency > Hype:** I choose the right tool for the job. Sometimes a well-tuned Simulated Annealing beats a Genetic Algorithm by 17% in runtime.
+* **Trade-offs over dogma:** There is no universally “best” model — only solutions that fit a specific problem, constraint set, and context.
+* **Efficiency is a feature:** Runtime, scalability, and simplicity matter. A simpler algorithm that converges faster is often the better engineering choice.
+* **Understanding before scaling:** I value knowing *why* a system behaves as it does before pushing for performance or deployment.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-### 🏥 Trustworthy AI in Healthcare
-*Building systems where safety and transparency are non-negotiable features.*
+### 🏥 AI Systems in Healthcare
+*Engineering under strict reliability and decision-cost constraints.*
 
-| Project | Tech Stack | Key Engineering Trade-off |
+| Project | Tech Stack | Key Engineering Decision |
 | :--- | :--- | :--- |
-| **[Bayesian Heart Failure Predictor](./link-to-repo)** | Python, MCMC, Custom Implementation | **Precision vs. Recall:** Calibrated decision thresholds to achieve **Zero False Positives**, prioritizing clinical resource allocation. Implemented Metropolis-Hastings from scratch to quantify uncertainty. |
-| **[Cardiolog: XAI Diagnostic Tool](./link-to-repo)** | Python, Prolog (s(CASP)), Neuro-Symbolic | **Accuracy vs. Explainability:** Hybrid architecture combining Machine Learning power with Logic Programming (Prolog) to generate natural language justifications for doctors (Glass-box AI). |
-
-### ⚡ Optimization & Complexity
-*Solving NP-Hard problems with metaheuristics.*
-
-* **[Mars Ecosystem Optimizer (MDP)](./link-to-repo)**
-    * **Challenge:** Solved the *Maximum Diversity Problem* for biological selection simulations.
-    * **Outcome:** Benchmarked Trajectory vs. Population algorithms. **Simulated Annealing** outperformed Genetic Algorithms, achieving equal solution quality in **0.05s vs 15s** (+17% efficiency gain).
-    * **Stack:** Java, Metaheuristics Frameworks.
-
-### 🧠 NLP Research
-*Adapting State-of-the-Art models to linguistic nuances.*
-
-* **[Political Ideology Classification](./link-to-repo)**
-    * **Scope:** Research on adapting Transformer models (BETO) for Spanish Twitter data, handling high sarcasm and slang density.
-    * **Report:** Benchmarked SVMs vs. LSTMs vs. Transformers, analyzing the computational cost vs. accuracy gain curve.
-    * **Stack:** Python, Hugging Face, Scikit-learn.
+| **[Bayesian Heart Failure Predictor](./link-to-repo)** | Python, MCMC (Custom) | **Decision Thresholding:** Tuned for **zero false positives** to reflect clinical resource constraints. Implemented Metropolis-Hastings from scratch to model uncertainty explicitly. |
+| **[Cardiolog: Neuro-Symbolic Diagnostic Tool](./link-to-repo)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
 
 ---
 
-## 💻 Technical Arsenal
+### ⚡ Optimization & Algorithmic Complexity
+*Metaheuristics for NP-Hard problems.*
 
-* **Languages:** Python (Advanced), Java, Prolog, SQL.
-* **Machine Learning:** Scikit-learn, PyTorch, Transformers (Hugging Face).
+* **[Mars Ecosystem Optimizer (Maximum Diversity Problem)](./link-to-repo)**
+  * **Problem:** Biological selection simulation modeled as an NP-Hard optimization task.
+  * **Approach:** Benchmarked trajectory-based and population-based metaheuristics.
+  * **Result:** **Simulated Annealing** matched Genetic Algorithm solution quality while reducing runtime from **15s to 0.05s**, highlighting the impact of algorithm selection under time constraints.
+  * **Stack:** Java, Metaheuristics Frameworks.
+
+---
+
+### 🧠 NLP & Applied Research
+*Adapting models to linguistic and computational realities.*
+
+* **[Political Ideology Classification (Spanish Twitter)](./link-to-repo)**
+  * **Focus:** Transformer adaptation (BETO) for high-slang, high-sarcasm political discourse.
+  * **Analysis:** Compared SVMs, LSTMs, and Transformers, evaluating accuracy gains against computational cost.
+  * **Stack:** Python, Hugging Face, Scikit-learn.
+
+---
+
+## 🌍 Beyond Code
+
+I actively engage in **AI dissemination and community-driven initiatives**, particularly around:
+- critical thinking about AI-generated content,
+- misinformation and automated persuasion,
+- and the social impact of deployed AI systems.
+
+I am a member of an Artificial Intelligence association and have participated in the organization of talks and interactive events on **fake news and AI**, aimed at helping non-technical audiences understand how modern AI systems influence information and decision-making.
+
+---
+
+## 💻 Technical Toolkit
+
+* **Languages:** Python (Advanced), Java, Prolog, SQL  
+* **Machine Learning:** Scikit-learn, PyTorch, Hugging Face Transformers  
+* **Optimization:** Metaheuristics, Simulated Annealing, GRASP  
+* **Reasoning Systems:** Logic Programming, Neuro-Symbolic AI  
+
+---
+
+## 🤝 Collaboration
+
+I’m especially interested in collaborating on projects that:
+- involve non-trivial engineering or algorithmic trade-offs,
+- operate under real-world constraints (time, data quality, interpretability, risk),
+- or aim to apply AI in socially relevant or high-impact domains.
 
 ---
 
 <div align="center">
-  <a href="mailto:tu-email@ejemplo.com">📩 Contact Me</a> •
-  <a href="https://linkedin.com/in/tu-perfil">👔 LinkedIn</a> •
-  <a href="https://tu-portfolio-web.com">🌐 Portfolio</a>
+  <a href="mailto:josewalterhernandezperez@gmail.com">📩 Contact Me</a> •
+  <a href="https://www.linkedin.com/in/jos%C3%A9-walter-hern%C3%A1ndez-p%C3%A9rez-36a1aa284/">👔 LinkedIn</a> •
 </div>
