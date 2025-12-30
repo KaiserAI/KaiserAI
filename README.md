@@ -24,14 +24,14 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 | Project | Tech Stack | Key Engineering Decision |
 | :--- | :--- | :--- |
 | **[Bayesian Heart Failure Predictor](https://github.com/KaiserAI/Bayesian-Heart-Failure-Clinical-Risk-Prediction-with-Uncertainty-Quantification)** | Python, MCMC (Custom) | **Decision Thresholding:** Tuned for **zero false positives** to reflect clinical resource constraints. Implemented Metropolis-Hastings from scratch to model uncertainty explicitly. |
-| **[Cardiolog: Neuro-Symbolic Diagnostic Tool](./link-to-repo)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
+| **[Cardiolog: Neuro-Symbolic Diagnostic Tool](https://github.com/KaiserAI/Cardiolog.git)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
 
 ---
 
 ### ⚡ Optimization & Algorithmic Complexity
 *Metaheuristics for NP-Hard problems.*
 
-* **[Mars Ecosystem Optimizer (Maximum Diversity Problem)](./link-to-repo)**
+* **[Mars Ecosystem Optimizer (Maximum Diversity Problem)](https://github.com/KaiserAI/Mars-Ecosystem-Optimizer-Maximum-Diversity-Problem-Solver.git)**
   * **Problem:** Biological selection simulation modeled as an NP-Hard optimization task.
   * **Approach:** Benchmarked trajectory-based and population-based metaheuristics.
   * **Result:** **Simulated Annealing** matched Genetic Algorithm solution quality while reducing runtime from **15s to 0.05s**, highlighting the impact of algorithm selection under time constraints.
@@ -42,7 +42,7 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 ### 🧠 NLP & Applied Research
 *Adapting models to linguistic and computational realities.*
 
-* **[Political Ideology Classification (Spanish Twitter)](./link-to-repo)**
+* **[Political Ideology Classification (Spanish Twitter)](https://github.com/KaiserAI/Political-Ideology-Classification-in-Tweets.git)**
   * **Focus:** Transformer adaptation (BETO) for high-slang, high-sarcasm political discourse.
   * **Analysis:** Compared SVMs, LSTMs, and Transformers, evaluating accuracy gains against computational cost.
   * **Stack:** Python, Hugging Face, Scikit-learn.
