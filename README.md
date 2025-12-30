@@ -1,6 +1,5 @@
-# Hi there, I'm [Tu Nombre] 👋
-### Software Engineer & Data Scientist | Focused on Interpretable AI & Optimization
-
+# Hi there, I'm Walter 👋
+### AI Engineer & Data Scientist 
 I build robust, production-grade systems that solve complex engineering problems. My work prioritizes **business value, algorithmic efficiency, and model interpretability** over black-box complexity.
 
 Currently applying rigorous engineering principles to Data Science and Neuro-Symbolic AI.
@@ -11,7 +10,6 @@ Currently applying rigorous engineering principles to Data Science and Neuro-Sym
 
 * **Explainability First:** In critical domains like Healthcare, a correct prediction is useless if the "why" is a mystery.
 * **Efficiency > Hype:** I choose the right tool for the job. Sometimes a well-tuned Simulated Annealing beats a Genetic Algorithm by 17% in runtime.
-* **From Scratch:** I don't just import libraries; I implement core algorithms (like MCMC or Metaheuristics) to understand their statistical boundaries.
 
 ---
 
@@ -47,8 +45,6 @@ Currently applying rigorous engineering principles to Data Science and Neuro-Sym
 
 * **Languages:** Python (Advanced), Java, Prolog, SQL.
 * **Machine Learning:** Scikit-learn, PyTorch, Transformers (Hugging Face).
-* **Statistical Modeling:** Bayesian Inference, MCMC, Markov Chains.
-* **Core Engineering:** Algorithms & Data Structures, Git flow, CI/CD, Unit Testing.
 
 ---
 
