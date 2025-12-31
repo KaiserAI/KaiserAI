@@ -2,9 +2,10 @@
 ### AI Engineer & Data Scientist
 
 I design and build AI systems with a strong focus on **engineering judgment, computational efficiency, and real-world constraints**.  
+
 Rather than chasing model complexity or trends, I prioritize **well-founded design decisions**, clear trade-offs, and solutions that remain robust outside controlled environments.
 
-My interests span Data Science, Optimization, All fields of AI and, also Neuro-Symbolic AI, with a particular emphasis on systems that must operate reliably in high-impact or noisy contexts.
+My interests span Applied Machine Learning, Optimization, and Neuro-Symbolic AI, with a particular emphasis on **healthcare, biomedical decision-making, and other domains where uncertainty and error costs matter**.
 
 ---
 
@@ -16,44 +17,45 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🏥 AI Systems in Healthcare
-*Engineering under strict reliability and decision-cost constraints.*
+*Engineering under strict reliability, uncertainty, and decision-cost constraints.*
 
-| Project | Tech Stack | Key Engineering Decision |
-| :--- | :--- | :--- |
-| **[Bayesian Heart Failure Predictor](https://github.com/KaiserAI/Bayesian-Heart-Failure-Clinical-Risk-Prediction-with-Uncertainty-Quantification)** | Python, MCMC (Custom) | **Decision Thresholding:** Tuned for **zero false positives** to reflect clinical resource constraints. Implemented Metropolis-Hastings from scratch to model uncertainty explicitly. |
-| **[Cardiolog: Neuro-Symbolic Diagnostic Tool](https://github.com/KaiserAI/Cardiolog.git)** | Python, Prolog (s(CASP)) | **Hybrid Design:** Combined statistical learning with logic-based reasoning to support structured, inspectable medical decision processes. |
-
----
-
-### ⚡ Optimization & Algorithmic Complexity
-*Metaheuristics for NP-Hard problems.*
-
-* **[Mars Ecosystem Optimizer (Maximum Diversity Problem)](https://github.com/KaiserAI/Mars-Ecosystem-Optimizer-Maximum-Diversity-Problem-Solver.git)**
-  * **Problem:** Biological selection simulation modeled as an NP-Hard optimization task.
-  * **Approach:** Benchmarked trajectory-based and population-based metaheuristics.
-  * **Result:** **Simulated Annealing** matched Genetic Algorithm solution quality while reducing runtime from **15s to 0.05s**, highlighting the impact of algorithm selection under time constraints.
-  * **Stack:** Java, Metaheuristics Frameworks.
+| Project | Focus | Key Engineering Decision |
+|------|------|------|
+| **[Bayesian Heart Failure Predictor](https://github.com/KaiserAI/Bayesian-Heart-Failure-Clinical-Risk-Prediction-with-Uncertainty-Quantification)** | Clinical risk prediction | **Decision thresholding under uncertainty:** Tuned for zero false positives to reflect clinical resource constraints. Custom MCMC (Metropolis–Hastings) to model uncertainty explicitly. |
+| **[Cardiolog – Neuro-Symbolic Diagnostic Tool](https://github.com/KaiserAI/Cardiolog.git)** | Explainable medical reasoning | **Hybrid architecture:** Combined statistical learning with logic-based reasoning to support structured, inspectable clinical decisions. |
 
 ---
 
-### 🧠 NLP & Applied Research
-*Adapting models to linguistic and computational realities.*
+### ⚡ Optimization & Algorithmic Design  
+*Solving complex problems where algorithm choice matters.*
+
+* **[Mars Ecosystem Optimizer – Maximum Diversity Problem](https://github.com/KaiserAI/Mars-Ecosystem-Optimizer-Maximum-Diversity-Problem-Solver.git)**
+  * Modeled a biological selection process as an NP-Hard optimization problem.
+  * Benchmarked trajectory-based vs. population-based metaheuristics.
+  * **Result:** Simulated Annealing matched Genetic Algorithm solution quality while reducing runtime from **15s to 0.05s**, highlighting the impact of algorithm selection under tight constraints.
+  * **Stack:** Java, Metaheuristics.
+
+---
+
+### 🧠 NLP & Applied ML  
+*Adapting models to linguistic, social, and computational realities.*
 
 * **[Political Ideology Classification (Spanish Twitter)](https://github.com/KaiserAI/Political-Ideology-Classification-in-Tweets.git)**
-  * **Focus:** Transformer adaptation (BETO) for high-slang, high-sarcasm political discourse.
-  * **Analysis:** Compared SVMs, LSTMs, and Transformers, evaluating accuracy gains against computational cost.
-  * **Stack:** Python, Hugging Face, Scikit-learn.
+  * Adapted BETO for high-noise, high-sarcasm political discourse.
+  * Compared SVMs, LSTMs, and Transformers, evaluating performance gains against computational cost.
+  * **Focus:** Robustness over benchmark chasing.
 
-### 🛡️ GenAI Security & Engineering
-*Prompt Injection attacks-defense strategies, and Local LLM deployment.*
+---
 
-| Project | Tech Stack | Key Engineering Trade-off |
-| :--- | :--- | :--- |
-| **[MegaCorp: LLM Red Teaming Platform](https://github.com/KaiserAI/Hacking-LLM-Local.git)** | Python, Llama 3.2 (Local), LangChain | **Latency vs. Privacy:** Architected a fully local inference pipeline using Ollama/Llama 3.2 to eliminate data leakage risks associated with cloud APIs, while optimizing prompt context limits for real-time interactivity. |
+### 🛡️ Generative AI & Security  
+*Understanding failure modes before deployment.*
 
+| Project | Focus | Engineering Trade-off |
+|------|------|------|
+| **[MegaCorp – Local LLM Red Teaming Platform](https://github.com/KaiserAI/Hacking-LLM-Local.git)** | Prompt injection & model misuse | **Privacy vs. latency:** Fully local inference (LLaMA 3.2 via Ollama) to eliminate data leakage risks while optimizing context length for interactivity. |
 
 ---
 
@@ -62,14 +64,6 @@ My interests span Data Science, Optimization, All fields of AI and, also Neuro-S
 I actively engage in **AI dissemination and community-driven initiatives**, particularly around critical thinking about AI and the social impact of deployed AI systems.
 
 I am the president of an [Artificial Intelligence association](https://asociacion-ia.github.io/aiaweb/) and have participated in talks and interactive events on aimed at helping both technical and non-technical audiences understand how modern AI works.
-
----
-
-## 💻 Technical Toolkit
-
-* **Languages:** Python (Advanced), Java, Prolog, SQL  
-* **Machine Learning:** Scikit-learn, PyTorch, Hugging Face Transformers  
-* **Optimization:** Metaheuristics 
 
 ---
 
